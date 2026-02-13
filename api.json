@@ -1,10 +1,8 @@
 {
-  "category": "ENTITY_SPIRIT",
-
   "meta": {
     "version": "1.0.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-01-14",
+    "last_updated": "2026-02-13",
     "repository": "https://github.com/wyrdness/hantu-tetek",
     "maintainers": [
       {
@@ -18,826 +16,111 @@
       "content": "CC-BY-4.0"
     }
   },
-
   "phenomenon": {
     "id": "hantu-tetek",
     "name": "Hantu Tetek",
-    "aliases": [
-      {
-        "name": "Hantu Nenen",
-        "language": "Malay",
-        "region": "Malaysia",
-        "meaning": "breast ghost (regional variant)"
-      },
-      {
-        "name": "Hantu Susu",
-        "language": "Malay",
-        "region": "Malaysia",
-        "meaning": "milk ghost"
-      },
-      {
-        "name": "Hantu Payudara",
-        "language": "Malay (formal)",
-        "region": "Malaysia",
-        "meaning": "breast ghost (formal term)"
-      }
-    ],
+    "aliases": [],
     "category": "ENTITY_SPIRIT",
-    "subcategory": "Malevolent Female Spirit",
+    "subcategory": "| Description | Status |",
     "tags": [
-      "malaysian-folklore",
-      "female-spirit",
-      "nocturnal",
-      "shapeshifter",
-      "predatory",
-      "suffocation",
-      "supernatural"
+      "folklore",
+      "mythology"
     ],
-    "status": "active",
+    "status": "documented",
     "description": {
-      "summary": "A malevolent female spirit from Malaysian folklore characterized by extremely long, pendulous breasts used to suffocate victims. One of the most feared supernatural entities in Malay ghost taxonomy, particularly dreaded in rural communities.",
-      "full": "Hantu Tetek is a distinctive female entity in Malaysian supernatural tradition, recognized by her grotesquely elongated breasts that can reach several feet in length. According to folklore, she appears as an old woman with sagging skin and disheveled hair, using her unnaturally long breasts as weapons to smother and suffocate victims, particularly children and men. The entity is believed to haunt remote areas, abandoned houses, and dark forests, attacking lone travelers at night. Within Malaysian ghost hierarchy, Hantu Tetek represents a cautionary figure warning against venturing into isolated areas after dark. The phenomenon reflects cultural anxieties about female aging, sexuality, and the dangers of wilderness areas."
+      "summary": "Hantu Tetek (lit.",
+      "full": "Hantu Tetek (lit. \\\"breast ghost\\\") is one of the most distinctive and feared entities in Malaysian supernatural folklore. Characterized by grotesquely elongated breasts that can extend several feet in length, this malevolent female spirit appears as an elderly woman who uses her unnaturally long breasts as weapons to suffocate victims, particularly lone travelers and children. Within the rich taxonomy of Malay hantu (ghosts), Hantu Tetek occupies a unique position as both a cautionary figure and a representation of cultural anxieties surrounding female aging, sexuality, and the dangers of isolated places. The entity is believed to haunt abandoned buildings, dark forests, and remote areas, emerging primarily at night to hunt for victims. While contemporary sightings have declined with urbanization, belief in Hantu Tetek persists in rural areas and traditional communities. The entity maintains cultural relevance through storytelling, popular media, and its integration into Islamic-Malay cosmology as a jinn manifestation."
     },
     "etymology": {
-      "origin": "From Malay language: 'hantu' (ghost/spirit) + 'tetek' (colloquial term for breasts). The name directly references the entity's most distinctive physical characteristic.",
-      "meaning": "Literally translates to 'breast ghost' or 'ghost with breasts'",
-      "first_use": "Oral traditions dating back centuries; first written documentation in early 20th century Malay folklore collections"
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
     }
   },
-
   "classification": {
     "taxonomy": {
       "category": "ENTITY_SPIRIT",
-      "type": "Malevolent Spirit",
-      "subtype": "Female Demon",
-      "variant": "Malaysian"
+      "type": "| Description | Status |",
+      "subtype": "Unknown",
+      "variant": "Unknown"
     },
-    "related_phenomena": [
-      {
-        "id": "pontianak",
-        "name": "Pontianak",
-        "relationship": "similar",
-        "description": "Vampiric female spirit, part of same Malaysian ghost tradition"
-      },
-      {
-        "id": "penanggalan",
-        "name": "Penanggalan",
-        "relationship": "similar",
-        "description": "Detached-head vampire, another predatory female spirit in Malay folklore"
-      },
-      {
-        "id": "langsuir",
-        "name": "Langsuir",
-        "relationship": "related",
-        "description": "Female vampire spirit, transforms from women who died in childbirth"
-      },
-      {
-        "id": "succubus",
-        "name": "Succubus",
-        "relationship": "parallel",
-        "description": "Western female demon attacking men at night"
-      },
-      {
-        "id": "night-hag",
-        "name": "Night Hag",
-        "relationship": "parallel",
-        "description": "Cross-cultural suffocation spirit phenomenon"
-      }
-    ]
+    "related_phenomena": []
   },
-
   "characteristics": {
     "physical": {
-      "height": {
-        "min": 1.5,
-        "max": 1.8,
-        "unit": "meters",
-        "confidence": "medium"
-      },
-      "weight": {
-        "min": 40,
-        "max": 70,
-        "unit": "kilograms",
-        "confidence": "low"
-      },
-      "coloration": [
-        "pale gray skin",
-        "yellowish-white flesh",
-        "dark matted hair",
-        "bloodshot eyes"
-      ],
-      "features": [
-        {
-          "feature": "Elongated breasts",
-          "description": "Unnaturally long, pendulous breasts extending 1-3 meters, primary identifying characteristic",
-          "frequency": "always"
-        },
-        {
-          "feature": "Aged appearance",
-          "description": "Appears as elderly woman with wrinkled, sagging skin",
-          "frequency": "always"
-        },
-        {
-          "feature": "Wild hair",
-          "description": "Long, disheveled, unkempt hair, often matted or tangled",
-          "frequency": "common"
-        },
-        {
-          "feature": "Hunched posture",
-          "description": "Bent over stance, sometimes using breasts as support when moving",
-          "frequency": "common"
-        },
-        {
-          "feature": "Sharp nails",
-          "description": "Claw-like fingernails for gripping victims",
-          "frequency": "common"
-        },
-        {
-          "feature": "Glowing eyes",
-          "description": "Red or yellow luminous eyes visible in darkness",
-          "frequency": "occasional"
-        }
-      ],
-      "morphology": "Humanoid female form with severe physical distortion. Emaciated elderly body supporting grotesquely enlarged mammary glands. Skin appears desiccated and loose. Movement described as shuffling or crawling due to weight of breasts."
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
     },
-    "abilities": [
-      {
-        "ability": "Suffocation attack",
-        "description": "Uses elongated breasts to wrap around victim's face and smother them to death",
-        "frequency": "common",
-        "evidence_level": "documented"
-      },
-      {
-        "ability": "Shapeshifting",
-        "description": "Can disguise appearance as normal old woman to approach victims",
-        "frequency": "common",
-        "evidence_level": "documented"
-      },
-      {
-        "ability": "Nocturnal hunting",
-        "description": "Primarily active at night, enhanced abilities in darkness",
-        "frequency": "always",
-        "evidence_level": "documented"
-      },
-      {
-        "ability": "Supernatural strength",
-        "description": "Despite aged appearance, possesses strength to overpower adult victims",
-        "frequency": "common",
-        "evidence_level": "reported"
-      },
-      {
-        "ability": "Paralysis inducement",
-        "description": "Victims report inability to move or call for help during encounters",
-        "frequency": "common",
-        "evidence_level": "reported"
-      },
-      {
-        "ability": "Invisibility",
-        "description": "Can become invisible or fade from sight when pursued",
-        "frequency": "occasional",
-        "evidence_level": "reported"
-      },
-      {
-        "ability": "Terror projection",
-        "description": "Induces overwhelming fear in those who sense her presence",
-        "frequency": "common",
-        "evidence_level": "reported"
-      },
-      {
-        "ability": "Victim tracking",
-        "description": "Can locate and follow specific targets across distances",
-        "frequency": "occasional",
-        "evidence_level": "speculation"
-      }
-    ],
+    "abilities": [],
     "behavior": {
-      "activity_period": "nocturnal",
-      "disposition": "hostile",
-      "social_structure": "solitary",
-      "habitat_preference": [
-        "abandoned buildings",
-        "dense jungle",
-        "remote villages",
-        "dark forests",
-        "isolated roadways"
-      ],
-      "diet": "Does not consume physical food; feeds on fear and life force",
-      "patterns": [
-        "Targets lone male travelers",
-        "Attacks children who wander after dark",
-        "Haunts locations of tragic deaths",
-        "Avoids populated areas and artificial light",
-        "More active during new moon phases",
-        "Retreats before dawn",
-        "Cannot cross running water (according to some accounts)"
-      ]
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
     }
   },
-
   "distribution": {
     "range": {
-      "description": "Primary distribution across Peninsular Malaysia and parts of Indonesian archipelago. Concentrated in rural and forested regions with traditional Malay cultural presence.",
-      "continents": ["Asia"],
-      "countries": ["Malaysia", "Indonesia", "Singapore", "Brunei"],
-      "regions": [
-        "Peninsular Malaysia",
-        "East Malaysia (Sabah, Sarawak)",
-        "Sumatra",
-        "Java",
-        "Riau Islands"
-      ]
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
     },
-    "hotspots": [
-      {
-        "name": "Johor Rural Areas",
-        "location": {
-          "description": "Rural kampungs and oil palm plantations",
-          "country": "Malaysia",
-          "region": "Johor",
-          "coordinates": {
-            "latitude": 1.9344,
-            "longitude": 103.3587
-          }
-        },
-        "sighting_count": 45,
-        "peak_period": "1960s-1990s",
-        "notes": "Highest concentration of documented encounters in rural agricultural areas"
-      },
-      {
-        "name": "Pahang Jungle Areas",
-        "location": {
-          "description": "Taman Negara vicinity and surrounding jungle",
-          "country": "Malaysia",
-          "region": "Pahang",
-          "coordinates": {
-            "latitude": 3.8126,
-            "longitude": 102.3250
-          }
-        },
-        "sighting_count": 32,
-        "peak_period": "1970s-present",
-        "notes": "Reports from indigenous Orang Asli communities and loggers"
-      },
-      {
-        "name": "Perak Abandoned Estates",
-        "location": {
-          "description": "Former tin mining and rubber estates",
-          "country": "Malaysia",
-          "region": "Perak",
-          "coordinates": {
-            "latitude": 4.5921,
-            "longitude": 101.0901
-          }
-        },
-        "sighting_count": 28,
-        "peak_period": "1950s-1980s",
-        "notes": "Associated with abandoned colonial-era plantations"
-      }
-    ],
+    "hotspots": [],
     "temporal": {
       "first_recorded": {
-        "date": "Pre-Islamic era",
+        "date": "Unknown",
         "circa": true,
-        "source": "Oral traditions predating 15th century Islamic conversion"
-      },
-      "peak_activity_periods": [
-        {
-          "period": "1950s-1980s",
-          "description": "Post-independence rural transformation, many sightings in changing countryside"
-        },
-        {
-          "period": "1990s-2010s",
-          "description": "Resurgence of interest due to urban legends and internet folklore"
-        }
-      ],
-      "seasonal_patterns": "Higher report frequency during monsoon season (November-February); new moon nights"
+        "source": "Traditional folklore"
+      }
     }
   },
-
   "history": {
     "origins": {
-      "cultural_roots": "Rooted in pre-Islamic animist traditions of Malay Peninsula, possibly incorporating Hindu-Buddhist influences. May represent folk memory of ritual practices or societal fears regarding female aging and death. Reflects patriarchal anxieties about female power and sexuality.",
-      "earliest_accounts": "Oral traditions suggest pre-15th century origins. Integrated into Islamic-era ghost taxonomy as jinn or syaitan manifestation. First scholarly documentation in early 20th century colonial ethnographic studies.",
-      "folklore_connections": "Connected to broader Southeast Asian tradition of predatory female spirits. Shares characteristics with Thai Phi Krasue, Filipino Manananggal, and broader 'night hag' mythology across cultures."
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
     },
-    "timeline": [
-      {
-        "date": "Pre-1400s",
-        "event": "Animist origins",
-        "significance": "Entity exists in pre-Islamic Malay spirit taxonomy",
-        "source": "Oral traditions, reconstructed folklore"
-      },
-      {
-        "date": "1511",
-        "event": "Islamic integration",
-        "significance": "Portuguese colonization period; entity reinterpreted within Islamic cosmology as jinn",
-        "source": "Historical religious texts"
-      },
-      {
-        "date": "1906",
-        "event": "First academic documentation",
-        "significance": "Walter Skeat's 'Malay Magic' includes reference to supernatural female entities",
-        "source": "Skeat, W. W. (1906). Malay Magic"
-      },
-      {
-        "date": "1957",
-        "event": "Post-independence folklore preservation",
-        "significance": "Malaysian independence leads to renewed interest in Malay folklore",
-        "source": "National folklore archives"
-      },
-      {
-        "date": "1970s",
-        "event": "Modern media representations",
-        "significance": "Appears in Malaysian horror comics and pulp fiction",
-        "source": "Popular culture archives"
-      },
-      {
-        "date": "1995",
-        "event": "Academic folkloristic study",
-        "significance": "Comprehensive cataloging in university folklore research programs",
-        "source": "Malaysian university folklore departments"
-      },
-      {
-        "date": "2000s",
-        "event": "Internet urban legend revival",
-        "significance": "Digital storytelling platforms revive interest among young Malaysians",
-        "source": "Online folklore forums"
-      }
-    ],
-    "modern_era": "Contemporary belief in Hantu Tetek persists primarily in rural areas, though urbanization has reduced frequency of reports. Entity maintains presence in popular culture through horror media, internet creepypasta, and tourism (ghost tours). Younger generation often views as cultural mythology rather than literal belief, though some practitioners of traditional Malay spirituality maintain reality of such entities."
+    "timeline": []
   },
-
   "sightings": {
     "statistics": {
-      "total_documented": 287,
+      "total_documented": 0,
       "verified": 0,
-      "disputed": 275,
-      "debunked": 12,
-      "date_range": {
-        "earliest": "1920",
-        "latest": "2025"
-      }
+      "disputed": 0,
+      "debunked": 0
     },
-    "notable": [
-      {
-        "id": "hantu-tetek-1965-johor",
-        "name": "Johor Rubber Estate Encounter",
-        "date": {
-          "value": "1965-11",
-          "precision": "month"
-        },
-        "location": {
-          "description": "Abandoned rubber estate near Kluang",
-          "country": "Malaysia",
-          "region": "Johor",
-          "locality": "Kluang District",
-          "coordinates": {
-            "latitude": 2.0333,
-            "longitude": 103.3167,
-            "precision": "approximate"
-          }
-        },
-        "witnesses": {
-          "count": 3,
-          "types": ["Estate workers"],
-          "credibility_factors": ["Multiple witnesses", "Consistent descriptions", "Local reputation"]
-        },
-        "description": "Three rubber tappers working late shift reported encountering an elderly woman with 'impossibly long breasts' near abandoned estate manager's bungalow. Entity allegedly pursued them, attempting to envelop one worker before group escaped to lighted area. Worker reported temporary paralysis and difficulty breathing. Incident caused temporary work stoppage and required bomoh (shaman) to cleanse area.",
-        "conditions": {
-          "weather": "Clear night, high humidity",
-          "visibility": "Poor, moonless night",
-          "time_of_day": "Approximately 2:00 AM",
-          "duration": "5-10 minutes"
-        },
-        "evidence": [
-          "Witness testimony recorded by estate management",
-          "Physical marks on victim (bruising around neck and chest)",
-          "Subsequent blessing ceremony by local bomoh",
-          "Local newspaper report"
-        ],
-        "credibility": {
-          "rating": "medium",
-          "factors": [
-            "Multiple consistent witnesses",
-            "Physical evidence (bruising)",
-            "Cultural context supports belief",
-            "No alternative explanation provided",
-            "Possible sleep paralysis or mass hysteria"
-          ],
-          "notes": "Well-documented incident for the era. Workers were respected community members with no history of fabrication."
-        },
-        "sources": [
-          "Estate management records (1965)",
-          "Local newspaper archive: Johor Bahru News",
-          "Interview transcripts (1987 folklore study)"
-        ],
-        "featured": true
-      },
-      {
-        "id": "hantu-tetek-1978-pahang",
-        "name": "Taman Negara Logger Incident",
-        "date": {
-          "value": "1978-02-14",
-          "precision": "exact"
-        },
-        "location": {
-          "description": "Logging camp near Taman Negara boundary",
-          "country": "Malaysia",
-          "region": "Pahang",
-          "locality": "Jerantut District",
-          "coordinates": {
-            "latitude": 4.4594,
-            "longitude": 102.3778,
-            "precision": "approximate"
-          }
-        },
-        "witnesses": {
-          "count": 1,
-          "types": ["Logger"],
-          "credibility_factors": ["Experienced outdoorsman", "No prior supernatural claims"]
-        },
-        "description": "Timber worker returning to camp after dark claimed to be attacked by 'old woman with breasts like python' near river crossing. Reported entity emerged from darkness, wrapped breast around his face suffocating him until he managed to break free and flee. Suffered breathing difficulties and reported nightmares for weeks. Refused to work night shifts afterward.",
-        "conditions": {
-          "weather": "Light rain, warm",
-          "visibility": "Very poor, dense jungle",
-          "time_of_day": "Around 8:00 PM",
-          "duration": "2-3 minutes"
-        },
-        "evidence": [
-          "Witness testimony",
-          "Minor facial abrasions",
-          "Psychological trauma requiring treatment",
-          "Corroboration from camp supervisor"
-        ],
-        "credibility": {
-          "rating": "low-medium",
-          "factors": [
-            "Single witness",
-            "Dark, stressful conditions",
-            "Possible wildlife encounter misinterpreted",
-            "Witness's genuine trauma",
-            "Consistent with folklore description"
-          ],
-          "notes": "Witness showed genuine psychological distress. Possible encounter with animal (python, bear) reinterpreted through cultural lens."
-        },
-        "sources": [
-          "Logging company incident report",
-          "Medical records (treated for trauma)",
-          "Interview in 'Jungle Ghosts of Malaysia' (1995)"
-        ],
-        "featured": true
-      },
-      {
-        "id": "hantu-tetek-1983-perak",
-        "name": "Ipoh Abandoned Mansion Case",
-        "date": {
-          "value": "1983-08",
-          "precision": "month"
-        },
-        "location": {
-          "description": "Former colonial mansion, Ipoh outskirts",
-          "country": "Malaysia",
-          "region": "Perak",
-          "locality": "Ipoh",
-          "coordinates": {
-            "latitude": 4.5975,
-            "longitude": 101.0901,
-            "precision": "approximate"
-          }
-        },
-        "witnesses": {
-          "count": 5,
-          "types": ["Teenagers"],
-          "credibility_factors": ["Multiple witnesses", "Immediate reporting", "Visible distress"]
-        },
-        "description": "Group of teenagers exploring abandoned mansion reported seeing 'horrifying old woman with hanging breasts touching ground' in upstairs bedroom. Entity allegedly moved toward them making gasping sounds. Group fled immediately, reporting incident to parents and police. One member fainted and required medical attention for shock.",
-        "conditions": {
-          "weather": "Clear evening",
-          "visibility": "Dusk, flashlight illumination",
-          "time_of_day": "Approximately 6:30 PM",
-          "duration": "Less than 1 minute"
-        },
-        "evidence": [
-          "Police report filed",
-          "Medical records (shock treatment)",
-          "Parental corroboration of distress",
-          "Newspaper coverage"
-        ],
-        "credibility": {
-          "rating": "low",
-          "factors": [
-            "Young, impressionable witnesses",
-            "Abandoned building known for ghost stories",
-            "Poor lighting conditions",
-            "Genuine fear response",
-            "Possible misidentification or prank",
-            "Group hysteria factor"
-          ],
-          "notes": "Likely case of misidentification amplified by expectations and group psychology. Building had reputation for hauntings."
-        },
-        "sources": [
-          "Royal Malaysian Police report (1983)",
-          "Hospital of Ipoh emergency records",
-          "Perak Times newspaper (August 1983)"
-        ],
-        "featured": false
-      },
-      {
-        "id": "hantu-tetek-2001-selangor",
-        "name": "Kuala Selangor Night Market Sighting",
-        "date": {
-          "value": "2001-12-22",
-          "precision": "exact"
-        },
-        "location": {
-          "description": "Near night market area",
-          "country": "Malaysia",
-          "region": "Selangor",
-          "locality": "Kuala Selangor",
-          "coordinates": {
-            "latitude": 3.3369,
-            "longitude": 101.2525,
-            "precision": "approximate"
-          }
-        },
-        "witnesses": {
-          "count": 2,
-          "types": ["Night market vendors"],
-          "credibility_factors": ["Sober adults", "Clear conditions"]
-        },
-        "description": "Two vendors closing stalls late at night reported seeing elderly woman with 'unnaturally long breasts visible under thin clothing' walking near abandoned shophouses. Entity turned to look at them with 'glowing yellow eyes' before disappearing into alley. Vendors reported intense fear and cold sensation.",
-        "conditions": {
-          "weather": "Clear, dry night",
-          "visibility": "Good, streetlight illumination",
-          "time_of_day": "Approximately 11:45 PM",
-          "duration": "30-45 seconds"
-        },
-        "evidence": [
-          "Witness testimony",
-          "Recorded in local ghost hunting forum",
-          "Photographic attempt (no entity captured)"
-        ],
-        "credibility": {
-          "rating": "low",
-          "factors": [
-            "Brief encounter",
-            "No physical evidence",
-            "Possible misidentification of homeless person",
-            "Cultural priming",
-            "Good lighting should have allowed clearer observation"
-          ],
-          "notes": "Likely misidentification of person with medical condition or unusual appearance, reinterpreted through folkloric lens."
-        },
-        "sources": [
-          "Malaysian Ghost Research forum post (2001)",
-          "Local paranormal investigation group records"
-        ],
-        "featured": false
-      }
-    ],
+    "notable": [],
     "database_path": "./sightings/"
   },
-
   "evidence": {
-    "physical": [
-      {
-        "id": "hantu-tetek-evidence-marks",
-        "type": "physical marks",
-        "name": "Victim markings",
-        "date": "Various",
-        "description": "Alleged victims report bruising around neck, chest, and face consistent with suffocation attempts",
-        "status": "disputed",
-        "analysis": "Marks could result from various causes including sleep position, medical conditions, or self-inflicted during panic",
-        "source": "Multiple anecdotal reports"
-      }
-    ],
-    "photographic": [
-      {
-        "id": "hantu-tetek-evidence-photo-1995",
-        "type": "photograph",
-        "name": "Negeri Sembilan photograph",
-        "date": "1995",
-        "description": "Blurry photograph allegedly showing figure with unusual proportions in abandoned house",
-        "status": "debunked",
-        "analysis": "Later identified as photograph of hanging fabric/cloth creating optical illusion",
-        "source": "Malaysian paranormal archives"
-      }
-    ],
-    "testimonial": [
-      {
-        "id": "hantu-tetek-evidence-bomoh",
-        "type": "spiritual practitioner testimony",
-        "name": "Bomoh accounts",
-        "description": "Traditional shamans report encounters during spirit communication and exorcism rituals",
-        "status": "unverifiable",
-        "analysis": "Represents cultural belief system rather than empirical evidence",
-        "source": "Ethnographic research"
-      }
-    ]
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
   },
-
   "theories": {
-    "paranormal": [
-      {
-        "name": "Malevolent Jinn",
-        "description": "Within Islamic framework, entity interpreted as jinn (djinn) taking female form to terrorize humans",
-        "proponents": ["Traditional Islamic scholars", "Ustaz practitioners"],
-        "evidence_cited": ["Quranic references to jinn", "Ability to shapeshift", "Nocturnal nature"]
-      },
-      {
-        "name": "Curse manifestation",
-        "description": "Theory that entity is physical manifestation of curse placed by dying woman or black magic practitioner",
-        "proponents": ["Traditional bomohs", "Folk practitioners"],
-        "evidence_cited": ["Association with tragic deaths", "Territorial behavior", "Response to religious countermeasures"]
-      },
-      {
-        "name": "Trapped spirit",
-        "description": "Spirit of woman who died in childbirth or suffered breast-related illness, condemned to haunt as punishment",
-        "proponents": ["Folklore researchers"],
-        "evidence_cited": ["Female form", "Maternal imagery perverted", "Attachment to specific locations"]
-      }
-    ],
-    "psychological": [
-      {
-        "name": "Sleep paralysis phenomenon",
-        "description": "Hallucinations during sleep paralysis reinterpreted through cultural lens as Hantu Tetek encounter",
-        "proponents": ["Sleep researchers", "Psychologists"],
-        "evidence_cited": ["Suffocation sensation", "Inability to move", "Nighttime occurrence", "Pressure on chest"]
-      },
-      {
-        "name": "Cultural conditioning",
-        "description": "Stories heard in childhood create expectation bias leading to misidentification during frightening situations",
-        "proponents": ["Cultural psychologists"],
-        "evidence_cited": ["Witnesses familiar with folklore", "Encounters match folkloric descriptions", "Rural/traditional community prevalence"]
-      },
-      {
-        "name": "Projection of cultural anxieties",
-        "description": "Entity represents projection of societal fears about aging, female sexuality, and maternal figures",
-        "proponents": ["Anthropologists", "Feminist scholars"],
-        "evidence_cited": ["Grotesque sexualization", "Aged female form", "Predatory maternal imagery", "Patriarchal cultural context"]
-      }
-    ],
-    "skeptical": [
-      {
-        "name": "Misidentification",
-        "description": "Encounters are misidentifications of wildlife, people with medical conditions, or environmental factors in poor lighting",
-        "proponents": ["Skeptics", "Scientific rationalists"],
-        "evidence_cited": ["No physical evidence", "Poor viewing conditions in reports", "Psychological stress factors"]
-      },
-      {
-        "name": "Urban legend propagation",
-        "description": "Self-perpetuating folklore maintained through storytelling rather than actual encounters",
-        "proponents": ["Folklorists", "Skeptical researchers"],
-        "evidence_cited": ["Consistency with folkloric patterns", "Lack of modern documented evidence", "Cultural transmission mechanisms"]
-      }
-    ]
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
   },
-
   "cultural": {
     "folklore": {
-      "traditions": [
-        "Part of broader Malay hantu (ghost) taxonomy",
-        "Integrated into Islamic cosmology as jinn manifestation",
-        "Used in cautionary tales to prevent children wandering at night",
-        "Associated with bomoh spiritual protection practices"
-      ],
-      "stories": [
-        "The Cursed Midwife - woman who caused infant death cursed to become Hantu Tetek",
-        "The Jealous Wife - murdered co-wife returns as vengeful spirit",
-        "The Starving Mother - woman who died unable to feed child haunts as perverted maternal figure"
-      ],
-      "beliefs": "Traditional belief holds entity can be warded off through Islamic prayers (Ayat Kursi), iron implements, or bomoh intervention. Pregnant women and children considered most vulnerable. Respect for elders and avoiding dark places emphasized as protection."
-    },
-    "indigenous": {
-      "cultures": [
-        "Malay",
-        "Orang Asli (various groups)",
-        "Peranakan",
-        "Traditional Javanese communities"
-      ],
-      "significance": "Represents integration of animist beliefs into Islamic cultural framework. Serves social function of enforcing behavioral norms and cautioning against dangers. Part of living tradition maintained by older generations.",
-      "sensitivity_note": "Entity reflects complex cultural attitudes toward female aging and sexuality within Islamic-Malay context. Researchers should approach with cultural sensitivity and awareness of religious dimensions. Not merely superstition but integrated aspect of worldview for traditional communities.",
-      "respect_guidelines": "Consult with local religious authorities (ustaz) and traditional practitioners (bomoh) before research. Avoid mockery or dismissive treatment which disrespects living beliefs. Recognize Islamic framework shapes modern interpretation. Be mindful of gender dynamics in traditional Malay culture."
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
     },
     "popular_culture": {
-      "literature": [
-        "Malaysian horror comics (1970s-1980s)",
-        "Gila-Gila magazine ghost stories",
-        "Contemporary Malaysian horror fiction",
-        "Academic folklore collections"
-      ],
-      "film_tv": [
-        "Hantu Kak Limah film series (references)",
-        "Malaysian horror film anthology segments",
-        "Documentary features on Malay ghosts",
-        "YouTube ghost story channels"
-      ],
-      "other": [
-        "Ghost tours in Penang and Melaka",
-        "Halloween attraction themes",
-        "Internet creepypasta adaptations",
-        "Cultural festival storytelling events",
-        "Traditional theater (mak yong) references"
-      ]
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
     }
   },
-
   "research": {
-    "researchers": [
-      {
-        "name": "Walter William Skeat",
-        "affiliation": "Cambridge University",
-        "contribution": "Early documentation of Malay supernatural beliefs in 'Malay Magic' (1900)",
-        "period": "1897-1906"
-      },
-      {
-        "name": "Ahmad bin Mohamed Ibrahim",
-        "affiliation": "Universiti Malaya",
-        "contribution": "Comprehensive study of Malay ghost taxonomy and Islamic interpretation",
-        "period": "1970s-1990s"
-      },
-      {
-        "name": "Patricia A. Hardwick",
-        "affiliation": "Independent researcher",
-        "contribution": "Ethnographic study of Malay supernatural beliefs in rural communities",
-        "period": "1980s-2000s"
-      }
-    ],
-    "organizations": [
-      {
-        "name": "Malaysian Folklore Society",
-        "url": "https://www.malaysianfolklore.org",
-        "focus": "Preservation and study of traditional Malaysian folklore"
-      },
-      {
-        "name": "Universiti Malaya Folklore Archive",
-        "url": "https://www.um.edu.my",
-        "focus": "Academic research and documentation"
-      }
-    ],
-    "ongoing_studies": "Contemporary research focuses on psychological and anthropological dimensions rather than literal belief. Studies examine cultural transmission, gender dynamics in folklore, and evolution of traditional beliefs in modern Malaysia."
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
   },
-
-  "protection": {
-    "traditional_methods": [
-      {
-        "method": "Islamic prayers",
-        "description": "Recitation of Ayat Kursi or other Quranic verses",
-        "effectiveness": "Considered highly effective by believers",
-        "source": "Islamic tradition"
-      },
-      {
-        "method": "Iron objects",
-        "description": "Carrying iron nails or tools believed to repel supernatural entities",
-        "effectiveness": "Traditional belief",
-        "source": "Pre-Islamic animist practices"
-      },
-      {
-        "method": "Bomoh intervention",
-        "description": "Traditional shaman performs cleansing and protection rituals",
-        "effectiveness": "Culturally validated",
-        "source": "Malay spiritual tradition"
-      },
-      {
-        "method": "Staying in groups",
-        "description": "Entity targets solitary individuals; group presence provides protection",
-        "effectiveness": "Practically sound advice regardless of supernatural reality",
-        "source": "Folk wisdom"
-      },
-      {
-        "method": "Avoiding night travel",
-        "description": "Not venturing into isolated areas after dark",
-        "effectiveness": "Reduces risk of encounters",
-        "source": "Cultural practice"
-      }
-    ]
-  },
-
-  "sources": [
-    {
-      "id": "skeat-1900",
-      "type": "book",
-      "title": "Malay Magic: An Introduction to the Folklore and Popular Religion of the Malay Peninsula",
-      "authors": ["Walter William Skeat"],
-      "publication": "Macmillan and Co.",
-      "date": "1900"
-    },
-    {
-      "id": "winstedt-1925",
-      "type": "book",
-      "title": "Shaman, Saiva and Sufi: A Study of the Evolution of Malay Magic",
-      "authors": ["Richard Olof Winstedt"],
-      "publication": "Constable & Co.",
-      "date": "1925"
-    },
-    {
-      "id": "laderman-1991",
-      "type": "book",
-      "title": "Taming the Wind of Desire: Psychology, Medicine, and Aesthetics in Malay Shamanistic Performance",
-      "authors": ["Carol Laderman"],
-      "publication": "University of California Press",
-      "date": "1991",
-      "isbn": "978-0520069695"
-    }
-  ]
+  "sources": []
 }
